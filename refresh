@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "This script reload/refresh a webpage"
+
+while true;
+do
+
+wget https://todo.be34.me >> ammm
+
+
+done

@@ -1,0 +1,42 @@
+      "environment": [
+        {
+          "name": "DATABASE",
+          "value": "postgres"
+        },
+        {
+          "name": "DEBUG",
+          "value": "0"
+        },
+        {
+          "name": "DJANGO_ALLOWED_HOSTS",
+          "value": "*"
+        },
+        {
+          "name": "SECRET_KEY",
+          "value": "kx8hi*n!9@^7m2z5hi!0pdw%3q=h@sn0el^i+g4u59=*g_uw$e"
+        },
+        {
+          "name": "SQL_DATABASE",
+          "value": "backend"
+        },
+        {
+          "name": "SQL_ENGINE",
+          "value": "django.db.backends.postgresql"
+        },
+        {
+          "name": "SQL_HOST",
+          "value": "${db_url}"
+        },
+        {
+          "name": "SQL_PASSWORD",
+          "value": "backendbackend"
+        },
+        {
+          "name": "SQL_PORT",
+          "value": "5432"
+        },
+        {
+          "name": "SQL_USER",
+          "value": "backend"
+        }
+      ],
