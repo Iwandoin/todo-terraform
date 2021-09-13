@@ -1,7 +1,7 @@
 #Define keys and region
 provider "aws" {
-access_key = "AKIAV5D7ZMYRR54AF4M4"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 region = "eu-central-1"
 }
 #Define s3 bucket
